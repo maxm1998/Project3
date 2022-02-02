@@ -8,7 +8,7 @@ How to Hedge against an obscenely overvalued and highly inflated market, to maxi
 
  I. Data - Shows all CSV Files used in this notebook.
  
- II. Indicies - Shows all The data Frame CSV files Used for the plots n Plots folder, 
+ II. Indicies - Shows all The data Frame CSV files Used for the plots in the Plots folder, 
      these were created in the M2-Stock-Corr code.
       
  III. Plots Shows the Code to plot all the data created in the M2-Stock-Corr code.
